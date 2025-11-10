@@ -1,4 +1,3 @@
-// app/dashboard/@settings/default.tsx
 import {notFound} from 'next/navigation';
 
 export default function DefaultSettingsFallback() {
